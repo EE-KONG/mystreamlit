@@ -7,4 +7,4 @@ if b==True:
   if x<20: st.write("C")
   elif x<40: st.write("B")
   else: st.write("A")
-if d=="2022/12/15": st.write("WoW")
+if d.day==10: st.write("WoW")
